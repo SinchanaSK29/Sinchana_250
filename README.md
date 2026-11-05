@@ -1,13 +1,13 @@
 Experiments Covered
 
-Experiment 1 – Introduction to Git and GitHub
+Experiment 1 – Initializing the git repository in a directory
 
-Experiment 2 – Creating a Git Repository
+Experiment 2 – Merging branches
 
-Experiment 3 – Basic Git Commands
+Experiment 3 – Applying the stash
 
-Experiment 4 – Staging and Committing Changes
+Experiment 4 – Cloning the Git repository
 
-Experiment 5 – Uploading Files to GitHub
+Experiment 5 – rebasing the local branch
 
-Experiment 6 – Pushing Changes to a Remote Repository
+Experiment 6 – merging the branches with costume commit
